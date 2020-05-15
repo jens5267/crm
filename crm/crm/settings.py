@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'accounts',
-    'accounts.apps.AccountsConfig'
+    # 'accounts.apps.AccountsConfig',
     'django_filters',
 ]
 
